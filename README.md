@@ -43,7 +43,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Setup/Installation requirements
 
-- Clone  or download and unzip the repository from github, [https://github.com/peter-wachira/Quotes-/](https://github.com/peter-wachira/Quotes-.git).
+- Clone  or download and unzip the repository from github, [https://github.com/kiirudavid/Quotes-ip]
 - If you have git Use this command `git clone *` to clone the project.
 - Run ng serve from your terminal
 
