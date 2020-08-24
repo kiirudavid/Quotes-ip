@@ -4,11 +4,11 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { AppComponent } from './app.component';
 
-import { MDBBootstrapModule } from 'angular-bootstrap-md';
+// import { MDBBootstrapModule } from 'angular-bootstrap-md';
 import { FormsModule } from '@angular/forms';
 import { FormComponent } from './form/form.component';
 import { QuoteComponent } from './quote/quote.component';
-import { HighlightDirective } from './highlight.directive';
+// import { HighlightDirective } from './highlight.directive';
 import { DetailsComponent } from './details/details.component';
 import { DateCountPipe } from './date-count.pipe';
 
@@ -17,14 +17,14 @@ import { DateCountPipe } from './date-count.pipe';
     AppComponent,
     FormComponent,
     QuoteComponent,
-    HighlightDirective,
+    // HighlightDirective,
     DetailsComponent,
     DateCountPipe
   ],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    MDBBootstrapModule.forRoot(),
+    // MDBBootstrapModule.forRoot(),
     FormsModule,
   ],
   providers: [],
